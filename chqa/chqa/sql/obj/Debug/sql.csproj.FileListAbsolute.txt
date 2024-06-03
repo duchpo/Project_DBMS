@@ -1,0 +1,93 @@
+E:\ki01_nam03\HQTCSDL\sql\sql\bin\Debug\sql.exe.config
+E:\ki01_nam03\HQTCSDL\sql\sql\bin\Debug\sql.exe
+E:\ki01_nam03\HQTCSDL\sql\sql\bin\Debug\sql.pdb
+E:\ki01_nam03\HQTCSDL\sql\sql\obj\Debug\sql.csproj.AssemblyReference.cache
+E:\ki01_nam03\HQTCSDL\sql\sql\obj\Debug\sql.fDMKhachHang.resources
+E:\ki01_nam03\HQTCSDL\sql\sql\obj\Debug\sql.fDMNhanVien.resources
+E:\ki01_nam03\HQTCSDL\sql\sql\obj\Debug\sql.fHoaDonBanHang.resources
+E:\ki01_nam03\HQTCSDL\sql\sql\obj\Debug\sql.fSanPham.resources
+E:\ki01_nam03\HQTCSDL\sql\sql\obj\Debug\sql.Properties.Resources.resources
+E:\ki01_nam03\HQTCSDL\sql\sql\obj\Debug\sql.csproj.GenerateResource.cache
+E:\ki01_nam03\HQTCSDL\sql\sql\obj\Debug\sql.csproj.CoreCompileInputs.cache
+E:\ki01_nam03\HQTCSDL\sql\sql\obj\Debug\sql.exe
+E:\ki01_nam03\HQTCSDL\sql\sql\obj\Debug\sql.pdb
+E:\ki01_nam03\HQTCSDL\sql\sql\obj\Debug\sql.fTimKiemHD.resources
+E:\ki01_nam03\HQTCSDL\sql\sql\obj\Debug\sql.fMain.resources
+E:\ki01_nam03\HQTCSDL\sql\sql\obj\Debug\sql.csproj.ResolveComReference.cache
+E:\ki01_nam03\HQTCSDL\sql\sql\obj\Debug\sql.fPhanCa.resources
+E:\ki01_nam03\HQTCSDL\sql\sql\obj\Debug\sql.fbangPhanCa.resources
+E:\ki01_nam03\HQTCSDL\sql\sql\obj\Debug\sql.Luong.resources
+E:\ki01_nam03\HQTCSDL\sql\sql\obj\Debug\sql.fHoaDonUD.resources
+E:\ki01_nam03\HQTCSDL\sql\sql\obj\Debug\sql.fPhieuChi.resources
+D:\CSDL_visualstudio\sql (1)\sql\obj\Debug\sql.csproj.AssemblyReference.cache
+D:\CSDL_visualstudio\sql (1)\sql\obj\Debug\sql.csproj.ResolveComReference.cache
+D:\CSDL_visualstudio\sql (1)\sql\obj\Debug\sql.fbangPhanCa.resources
+D:\CSDL_visualstudio\sql (1)\sql\obj\Debug\sql.fDMKhachHang.resources
+D:\CSDL_visualstudio\sql (1)\sql\obj\Debug\sql.fDMNhanVien.resources
+D:\CSDL_visualstudio\sql (1)\sql\obj\Debug\sql.fHoaDonBanHang.resources
+D:\CSDL_visualstudio\sql (1)\sql\obj\Debug\sql.fHoaDonUD.resources
+D:\CSDL_visualstudio\sql (1)\sql\obj\Debug\sql.fPhanCa.resources
+D:\CSDL_visualstudio\sql (1)\sql\obj\Debug\sql.fPhieuChi.resources
+D:\CSDL_visualstudio\sql (1)\sql\obj\Debug\sql.fSanPham.resources
+D:\CSDL_visualstudio\sql (1)\sql\obj\Debug\sql.fTimKiemHD.resources
+D:\CSDL_visualstudio\sql (1)\sql\obj\Debug\sql.fMain.resources
+D:\CSDL_visualstudio\sql (1)\sql\obj\Debug\sql.Luong.resources
+D:\CSDL_visualstudio\sql (1)\sql\obj\Debug\sql.Properties.Resources.resources
+D:\CSDL_visualstudio\sql (1)\sql\obj\Debug\sql.csproj.GenerateResource.cache
+D:\CSDL_visualstudio\sql (1)\sql\obj\Debug\sql.csproj.CoreCompileInputs.cache
+D:\CSDL_visualstudio\sql (1)\sql\obj\Debug\sql.exe
+D:\CSDL_visualstudio\sql (1)\sql\obj\Debug\sql.pdb
+D:\CSDL_visualstudio\sql (1)\sql\bin\Debug\sql.exe.config
+D:\CSDL_visualstudio\sql (1)\sql\bin\Debug\sql.exe
+D:\CSDL_visualstudio\sql (1)\sql\bin\Debug\sql.pdb
+D:\CSDL_visualstudio\sql (1)\sql\obj\Debug\sql.Dangnhap.resources
+D:\CSDL_visualstudio\sql (1)\sql\obj\Debug\sql.TaoTK.resources
+D:\CSDL_visualstudio\sql (1)\sql\obj\Debug\sql.Taikhoan.resources
+D:\CSDL_visualstudio\sql (1)\sql (1)\sql\obj\Debug\sql.csproj.AssemblyReference.cache
+D:\CSDL_visualstudio\sql (1)\sql (1)\sql\obj\Debug\sql.csproj.ResolveComReference.cache
+D:\CSDL_visualstudio\sql (1)\sql (1)\sql\obj\Debug\sql.Dangnhap.resources
+D:\CSDL_visualstudio\sql (1)\sql (1)\sql\obj\Debug\sql.fbangPhanCa.resources
+D:\CSDL_visualstudio\sql (1)\sql (1)\sql\obj\Debug\sql.fDMKhachHang.resources
+D:\CSDL_visualstudio\sql (1)\sql (1)\sql\obj\Debug\sql.fDMNhanVien.resources
+D:\CSDL_visualstudio\sql (1)\sql (1)\sql\obj\Debug\sql.fHoaDonBanHang.resources
+D:\CSDL_visualstudio\sql (1)\sql (1)\sql\obj\Debug\sql.fHoaDonUD.resources
+D:\CSDL_visualstudio\sql (1)\sql (1)\sql\obj\Debug\sql.fPhanCa.resources
+D:\CSDL_visualstudio\sql (1)\sql (1)\sql\obj\Debug\sql.fPhieuChi.resources
+D:\CSDL_visualstudio\sql (1)\sql (1)\sql\obj\Debug\sql.fSanPham.resources
+D:\CSDL_visualstudio\sql (1)\sql (1)\sql\obj\Debug\sql.fTimKiemHD.resources
+D:\CSDL_visualstudio\sql (1)\sql (1)\sql\obj\Debug\sql.fMain.resources
+D:\CSDL_visualstudio\sql (1)\sql (1)\sql\obj\Debug\sql.Luong.resources
+D:\CSDL_visualstudio\sql (1)\sql (1)\sql\obj\Debug\sql.Properties.Resources.resources
+D:\CSDL_visualstudio\sql (1)\sql (1)\sql\obj\Debug\sql.Taikhoan.resources
+D:\CSDL_visualstudio\sql (1)\sql (1)\sql\obj\Debug\sql.TaoTK.resources
+D:\CSDL_visualstudio\sql (1)\sql (1)\sql\obj\Debug\sql.csproj.GenerateResource.cache
+D:\CSDL_visualstudio\sql (1)\sql (1)\sql\obj\Debug\sql.csproj.CoreCompileInputs.cache
+D:\CSDL_visualstudio\sql (1)\sql (1)\sql\obj\Debug\sql.exe
+D:\CSDL_visualstudio\sql (1)\sql (1)\sql\obj\Debug\sql.pdb
+D:\CSDL_visualstudio\sql (1)\sql (1)\sql\bin\Debug\sql.exe.config
+D:\CSDL_visualstudio\sql (1)\sql (1)\sql\bin\Debug\sql.exe
+D:\CSDL_visualstudio\sql (1)\sql (1)\sql\bin\Debug\sql.pdb
+E:\ki01_nam03\HQTCSDL\DO_AN_CHQA\chqa\sql (1)\sql\bin\Debug\sql.exe.config
+E:\ki01_nam03\HQTCSDL\DO_AN_CHQA\chqa\sql (1)\sql\bin\Debug\sql.exe
+E:\ki01_nam03\HQTCSDL\DO_AN_CHQA\chqa\sql (1)\sql\bin\Debug\sql.pdb
+E:\ki01_nam03\HQTCSDL\DO_AN_CHQA\chqa\sql (1)\sql\obj\Debug\sql.csproj.AssemblyReference.cache
+E:\ki01_nam03\HQTCSDL\DO_AN_CHQA\chqa\sql (1)\sql\obj\Debug\sql.csproj.ResolveComReference.cache
+E:\ki01_nam03\HQTCSDL\DO_AN_CHQA\chqa\sql (1)\sql\obj\Debug\sql.Dangnhap.resources
+E:\ki01_nam03\HQTCSDL\DO_AN_CHQA\chqa\sql (1)\sql\obj\Debug\sql.fbangPhanCa.resources
+E:\ki01_nam03\HQTCSDL\DO_AN_CHQA\chqa\sql (1)\sql\obj\Debug\sql.fDMKhachHang.resources
+E:\ki01_nam03\HQTCSDL\DO_AN_CHQA\chqa\sql (1)\sql\obj\Debug\sql.fDMNhanVien.resources
+E:\ki01_nam03\HQTCSDL\DO_AN_CHQA\chqa\sql (1)\sql\obj\Debug\sql.fHoaDonBanHang.resources
+E:\ki01_nam03\HQTCSDL\DO_AN_CHQA\chqa\sql (1)\sql\obj\Debug\sql.fHoaDonUD.resources
+E:\ki01_nam03\HQTCSDL\DO_AN_CHQA\chqa\sql (1)\sql\obj\Debug\sql.fPhanCa.resources
+E:\ki01_nam03\HQTCSDL\DO_AN_CHQA\chqa\sql (1)\sql\obj\Debug\sql.fPhieuChi.resources
+E:\ki01_nam03\HQTCSDL\DO_AN_CHQA\chqa\sql (1)\sql\obj\Debug\sql.fSanPham.resources
+E:\ki01_nam03\HQTCSDL\DO_AN_CHQA\chqa\sql (1)\sql\obj\Debug\sql.fTimKiemHD.resources
+E:\ki01_nam03\HQTCSDL\DO_AN_CHQA\chqa\sql (1)\sql\obj\Debug\sql.fMain.resources
+E:\ki01_nam03\HQTCSDL\DO_AN_CHQA\chqa\sql (1)\sql\obj\Debug\sql.Luong.resources
+E:\ki01_nam03\HQTCSDL\DO_AN_CHQA\chqa\sql (1)\sql\obj\Debug\sql.Properties.Resources.resources
+E:\ki01_nam03\HQTCSDL\DO_AN_CHQA\chqa\sql (1)\sql\obj\Debug\sql.Taikhoan.resources
+E:\ki01_nam03\HQTCSDL\DO_AN_CHQA\chqa\sql (1)\sql\obj\Debug\sql.TaoTK.resources
+E:\ki01_nam03\HQTCSDL\DO_AN_CHQA\chqa\sql (1)\sql\obj\Debug\sql.csproj.GenerateResource.cache
+E:\ki01_nam03\HQTCSDL\DO_AN_CHQA\chqa\sql (1)\sql\obj\Debug\sql.csproj.CoreCompileInputs.cache
+E:\ki01_nam03\HQTCSDL\DO_AN_CHQA\chqa\sql (1)\sql\obj\Debug\sql.exe
+E:\ki01_nam03\HQTCSDL\DO_AN_CHQA\chqa\sql (1)\sql\obj\Debug\sql.pdb
